@@ -1,7 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anandu</h1>
+
 <h3 align="center">I'm a Growing Developer tryin' to learn new stuffs.</h3>
+
+<h4 align="center"> <img src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966"/> </a>
 
 
 ## 🙋‍♂️ About Me
