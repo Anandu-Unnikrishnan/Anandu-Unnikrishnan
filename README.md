@@ -10,8 +10,7 @@
 
 - 📫 How to reach me **ananduunni2002@gmail.com**
 
-- ⚡ Fun fact **I play games..do drawings✏️,coding👨‍💻and loves football⚽
-**
+- ⚡ Fun fact ** I play games..do drawings✏️,coding👨‍💻and loves football⚽ **
 
 ## 🚀 Languages and Tools:
 
