@@ -55,7 +55,7 @@
 </p>
 
 ## ❤ Followers
-<a href="https://github.com/Anandu-Unnikrishnan?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Anandu-Unnikrishnan?tab=followers"><img src="https://img.shields.io/github/followers/Anandu-Unnikrishnan=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <!---
