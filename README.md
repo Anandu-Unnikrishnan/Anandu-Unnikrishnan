@@ -35,7 +35,7 @@
 </p>
 
 ## ❤ Followers
-<a href="https://github.com/Anandu-Unnikrishnan?tab=followers">b 
+<a href="https://github.com/Anandu-Unnikrishnan?tab=followers"><img src="https://img.shields.io/github/followers/Anandu-Unnikrishnan?label=Followers&style=social" alt="GitHub Badge"></a>
 <!---
 Anandu-tech7/Anandu-tech7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
