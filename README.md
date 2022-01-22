@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anandu</h1>
 
-<h3 align="center">I'm a Growing Developer tryin' to learn new stuffs.</h3>
+<h3 align="center">I'm an Aspiring Developer tryin' to learn new stuffs🌱.</h3>
 
 <h4 align="center"> <img src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966"/> </a>
 
@@ -21,7 +21,7 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+
 <br/>
 
 
@@ -38,7 +38,4 @@
 
 ## ❤ Followers
 <a href="https://github.com/Anandu-Unnikrishnan?tab=followers"><img src="https://img.shields.io/github/followers/Anandu-Unnikrishnan?label=Followers&style=social" alt="GitHub Badge"></a>
-<!---
-Anandu-tech7/Anandu-tech7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
